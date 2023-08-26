@@ -28,7 +28,7 @@
 
 <br><br>
 
-- :school: I am an `undergraduate` at [Faculty of Computers & Informatics](https://www.ntu.edu.sg/scse/) at [Nanyang Tachnological University](https://www.ntu.edu.sg/).
+- :school: I am an `undergraduate` at [School of Computer Science and Technology (SCSE)](https://www.ntu.edu.sg/scse/) at [Nanyang Tachnological University](https://www.ntu.edu.sg/).
 - :student: I’m currently studying `Computer Engineering`.
 - 🏀: I was the chief programmer for `On-campus Orientation`
 - :technologist: I love using Software as a solution for every `Problem`.
