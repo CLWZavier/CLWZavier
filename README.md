@@ -288,9 +288,11 @@
 </details>
 
 </br></br>
-	
+
+<!--
 ## Contributions Graph
 	
 <p align = "center">
 	<img src = "https://ghchart.rshah.org/CLWZavier" alt="CLWZavier's Github chart"/>
 </p>
+-->
