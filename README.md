@@ -28,12 +28,11 @@
 
 <br><br>
 
-- :school: I am an `undergraduate` at [School of Computer Science and Technology (SCSE)](https://www.ntu.edu.sg/scse/) at [Nanyang Tachnological University](https://www.ntu.edu.sg/).
-- :student: I’m currently studying `Computer Engineering`.
+- :school: I am a `graduate` of [School of Computer Science and Technology (SCSE)](https://www.ntu.edu.sg/scse/) at [Nanyang Tachnological University](https://www.ntu.edu.sg/).
+- :student: I’m currently working as a `Software Engineer`.
 - 🏀: I was the chief programmer for `On-campus Orientation`
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always keen to `learn new things`.
-- :thinking: _I’m currently open for a new `job opportunity`_.
 <br>
 
 <!---
